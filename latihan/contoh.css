@@ -1,0 +1,26 @@
+.artiscoy{
+    background-color: aqua;
+    text-align: center;
+}
+span{
+    color: red;
+}
+
+.bulet{
+    border-radius: 100%;
+    width: 400px;
+    height: 400px;
+}
+
+.fotony {
+    display: flex;
+    justify-content:center;
+    flex-direction: row;
+}
+
+.poto-panji{
+    width: 200px;
+    height: 300px;
+    border-radius: 20px;
+    margin: 20px;
+}
